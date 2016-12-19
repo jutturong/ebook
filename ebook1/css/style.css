@@ -127,6 +127,21 @@ span.reference a:hover{
 .booklet .b-wrap-right img{
 	border:1px solid #E6E3C2;
 }
+
+/*
+a#zoom_button,
+a#zoom_button{
+    	display:none;
+	position:absolute;
+	width:41px;
+	height:40px;
+	cursor:pointer;
+	margin-top:-20px;
+	top:50%;
+	background:transparent url(../icon/zoom-in-pc-icon.jpg) no-repeat 0px -40px;
+}
+*/
+
 a#next_page_button,
 a#prev_page_button{
 	display:none;
